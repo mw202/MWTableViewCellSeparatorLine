@@ -51,7 +51,7 @@
 		4D46058222534410488363E0EFB86DB0 /* Pods-MWTableViewCellSeparatorLine_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MWTableViewCellSeparatorLine_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		5274154C05FC9DFDF11025210BD784C0 /* Pods-MWTableViewCellSeparatorLine_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-MWTableViewCellSeparatorLine_Example-umbrella.h"; sourceTree = "<group>"; };
 		52EACC5461F09CD088BE853D4892CF52 /* MWTableViewCellSeparatorLine */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = MWTableViewCellSeparatorLine; path = MWTableViewCellSeparatorLine.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		7282DE1E5365234D6DB198243787A103 /* MWTableViewCellSeparatorLine.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = MWTableViewCellSeparatorLine.podspec; sourceTree = "<group>"; tabWidth = 2; };
+		7282DE1E5365234D6DB198243787A103 /* MWTableViewCellSeparatorLine.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = MWTableViewCellSeparatorLine.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		73C2D934E10842AA2EC90755BBF370F5 /* Pods-MWTableViewCellSeparatorLine_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-MWTableViewCellSeparatorLine_Example.modulemap"; sourceTree = "<group>"; };
 		7DF0C797F04CBDE29D9D048583EA380D /* Pods-MWTableViewCellSeparatorLine_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-MWTableViewCellSeparatorLine_Example-acknowledgements.plist"; sourceTree = "<group>"; };
@@ -60,14 +60,14 @@
 		8CBE743387DE50CCB3ACCA1E3BB9C426 /* MWTableViewCellSeparatorLine-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "MWTableViewCellSeparatorLine-dummy.m"; sourceTree = "<group>"; };
 		9742C69D36383E7B27E99669168537A8 /* Pods-MWTableViewCellSeparatorLine_Example */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-MWTableViewCellSeparatorLine_Example"; path = Pods_MWTableViewCellSeparatorLine_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		9C2AC2924DACB3B62FE3A8C2456C91E7 /* MWTableViewCellSeparatorLine-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "MWTableViewCellSeparatorLine-Info.plist"; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		A016B4667D8F914BD53CA4CF3D6F8CDB /* Pods-MWTableViewCellSeparatorLine_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-MWTableViewCellSeparatorLine_Tests.modulemap"; sourceTree = "<group>"; };
 		A21E023C0C4466F790CB16D92B67ED1B /* Pods-MWTableViewCellSeparatorLine_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-MWTableViewCellSeparatorLine_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
-		A7717B149C48A9530318D41B31C3335B /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		A7717B149C48A9530318D41B31C3335B /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
 		B0C6C508383667D00E909960FC723606 /* MWTableViewCellSeparatorLine-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MWTableViewCellSeparatorLine-umbrella.h"; sourceTree = "<group>"; };
 		BD50BF12207C7B0DF30C82A54F966BAB /* MWTableViewCellSeparatorLine.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = MWTableViewCellSeparatorLine.modulemap; sourceTree = "<group>"; };
 		CCA4B90F0C4CD2D7B0B961C93423EC1D /* Pods-MWTableViewCellSeparatorLine_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-MWTableViewCellSeparatorLine_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
-		E23DD290597485DFF990427D1E4B2FF4 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		E23DD290597485DFF990427D1E4B2FF4 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
 		E38FEF58425185F9FCDF6AC9CC27BD3E /* Pods-MWTableViewCellSeparatorLine_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MWTableViewCellSeparatorLine_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		EB69B9708263CFAE19F346539CB40E09 /* Pods-MWTableViewCellSeparatorLine_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-MWTableViewCellSeparatorLine_Example-dummy.m"; sourceTree = "<group>"; };
 		EC5072F17BCEC43B972E55F324222409 /* MWTableViewCellSeparatorLine.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = MWTableViewCellSeparatorLine.release.xcconfig; sourceTree = "<group>"; };
@@ -658,7 +658,8 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};

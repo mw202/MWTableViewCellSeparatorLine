@@ -1,9 +1,9 @@
 {
   "name": "MWTableViewCellSeparatorLine",
   "version": "0.1.0",
-  "summary": "A short description of MWTableViewCellSeparatorLine.",
+  "summary": "UITableViewCell SeparatorLine.",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/LiY/MWTableViewCellSeparatorLine",
+  "homepage": "https://github.com/mw202",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,7 +12,7 @@
     "LiY": "250230331@qq.com"
   },
   "source": {
-    "git": "https://github.com/LiY/MWTableViewCellSeparatorLine.git",
+    "git": "https://github.com/mw202/MWTableViewCellSeparatorLine.git",
     "tag": "0.1.0"
   },
   "platforms": {

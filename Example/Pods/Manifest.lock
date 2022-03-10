@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  MWTableViewCellSeparatorLine: dfed5d6d6f6456c4a2c98ff3a45ec56713bffe42
+  MWTableViewCellSeparatorLine: 4810dac4330c31f5d7e0d150ee9182596dd2a79e
 
 PODFILE CHECKSUM: 4963966420aa628a5fb8f8204cfcdcc6ead3fd99
 
