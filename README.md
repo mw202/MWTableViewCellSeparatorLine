@@ -27,5 +27,3 @@ LiY, 250230331@qq.com
 ## License
 
 MWTableViewCellSeparatorLine is available under the MIT license. See the LICENSE file for more info.
-
-# MWTableViewCellSeparatorLine
