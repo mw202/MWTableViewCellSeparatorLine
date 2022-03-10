@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MWTableViewCellSeparatorLine
 
 [![CI Status](https://img.shields.io/travis/LiY/MWTableViewCellSeparatorLine.svg?style=flat)](https://travis-ci.org/LiY/MWTableViewCellSeparatorLine)
@@ -27,3 +28,6 @@ LiY, 250230331@qq.com
 ## License
 
 MWTableViewCellSeparatorLine is available under the MIT license. See the LICENSE file for more info.
+=======
+# MWTableViewCellSeparatorLine
+>>>>>>> aed537fe6c958e7c9b79c1a5fc655e25113c7f2d
