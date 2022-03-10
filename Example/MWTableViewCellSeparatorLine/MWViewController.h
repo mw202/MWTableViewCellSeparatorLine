@@ -7,7 +7,8 @@
 //
 
 @import UIKit;
+#import "UITableViewCell+SeparatorLine.h"
 
-@interface MWViewController : UIViewController
+@interface MWViewController : UIViewController <UITableViewDataSource, UITableViewDelegate>
 
 @end

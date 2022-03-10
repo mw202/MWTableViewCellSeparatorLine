@@ -1,0 +1,6 @@
+framework module MWTableViewCellSeparatorLine {
+  umbrella header "MWTableViewCellSeparatorLine-umbrella.h"
+
+  export *
+  module * { export * }
+}
